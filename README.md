@@ -10,3 +10,5 @@
 [modulo 2 aula 3 - pipeline e planejamento para desenvolvimento usando aprendizado de máquina](./modulo2aula3Pipeline.md)
 
 [modulo 3 - regressão linear simples ](./modulo3regressaolinear.zip)
+
+[modulo 4 aula 1 - Deep Learning](./modulo4DeepLearning.md)
