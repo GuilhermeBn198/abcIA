@@ -12,3 +12,5 @@
 [modulo 3 - regressão linear simples ](./modulo3regressaolinear.zip)
 
 [modulo 4 aula 1 - Deep Learning](./modulo4DeepLearning.md)
+
+[modulo 4 aula 1 - visão computacional, cnn's e tensorflow](./modulo4VisaoCnnTensorFlow.md)
